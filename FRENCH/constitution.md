@@ -46,4 +46,4 @@ Voici un texte qui par la parole de la démocratie, détermine les bases de __*F
 
 1. Est une langue nationale une langue tous les présents textes officiels. 
 2. N’importe qui peut ajouter une langue nationale en traduisant la totalité des textes officiels.
-3. Si une language n'est plus maintenue, elle sera abandonnée.
+3. Si une langue n'est plus maintenue, elle sera abandonnée.
