@@ -155,3 +155,17 @@ Toute personne a droit à ce que sa cause soit jugée par une autorité judiciai
 1. Toute personne est présumée innocente jusqu’à ce qu’elle fasse l’objet d’une condamnation entrée en force.
 2.  Toute personne accusée a le droit d’être informée, dans les plus brefs délais et de manière détaillée, des accusations portées contre elle. Elle doit être mise en état de faire valoir les droits de la défense
 3. Toute personne condamnée a le droit de faire examiner le jugement par une juridiction supérieure. Les cas où le Tribunal fédéral statue en instance unique sont réservés.
+
+## Chapitre 2 Citoyenneté
+
+### Art. 26 Citoyenneté
+1. La citoyenneté de FeurLand est ouverte à toute personne qui adopte la présente Constitution, s'engage à la respecter le pays virtuelle qu'est FeurLand.
+2. La citoyenneté de FeurLand peut être retirée à toute personne qui viole les principes fondamentaux de la présente Constitution ou qui viole une des lois en vigueur.
+
+### Art. 27 Droits politiques
+1. Tous les citoyens de FeurLand ont le droit de participer à la vie politique de la communauté virtuelle.
+2. Les droits politiques comprennent notamment le droit de vote, le droit de se porter candidat, le droit de participer à des référendums et des initiatives populaires.
+
+### Art. 28 Droit d'asile
+1. Le droit d'asile est garanti à toute personne persécutée en raison de ses convictions politiques, religieuses ou philosophiques, de son appartenance à une minorité ou pour tout autre motif.
+2. Le droit d'asile ne peut être invoqué pour des personnes coupables d'actes contraires aux principes fondamentaux de la présente Constitution.
