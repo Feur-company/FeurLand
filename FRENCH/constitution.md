@@ -80,3 +80,7 @@ La dignité humaine doit être respectée et protégée.
 1. Tout être humain a droit à la vie. La peine de mort est interdite.
 2. Tout être humain a droit à la liberté personnelle, notamment à l’intégrité physique et psychique et à la liberté de mouvement.
 3. La torture et tout autre traitement ou peine cruels inhumains ou dégradants sont interdits
+
+### Art. 9 Protection des enfants et des jeunes
+1. Les enfants et les jeunes ont droit à une protection particulière de leur intégrité et à l’encouragement de leur développement
+2.  Ils exercent eux-mêmes leurs droits dans la mesure où ils sont capables de discernement.
