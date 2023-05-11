@@ -95,3 +95,9 @@ Quiconque est dans une situation de détresse et n’est pas en mesure de subven
 
 ### Art. 14 Droit au mariage et à la famille.
 Le droit au mariage et à la famille est garanti.
+
+### Art. 15 Liberté de conscience et de croyance
+1. La liberté de conscience et de croyance est garantie.
+2. Toute personne a le droit de choisir librement sa religion ainsi que de se forger ses convictions philosophiques et de les professer individuellement ou en communauté.
+3. Toute personne a le droit d’adhérer à une communauté religieuse ou d’y appartenir et de suivre un enseignement religieux
+4. Nul ne peut être contraint d’adhérer à une communauté religieuse ou d’y appartenir, d’accomplir un acte religieux ou de suivre un enseignement religieux.
