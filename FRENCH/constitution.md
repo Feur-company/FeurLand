@@ -124,3 +124,22 @@ La liberté de l’art est garantie.
 2. Toute personne a le droit de créer des associations, d’y adhérer ou d’y appartenir et de participer aux activités associatives.
 4. Nul ne peut être contraint d’adhérer à une association ou d’y appartenir
 
+### Art. 20 Liberté économique
+1. La liberté économique est garantie.
+2. Elle comprend notamment le libre choix de la profession, le libre accès à une activité économique lucrative privée et son libre exercice.
+
+### Art. 21 Liberté syndicale
+1. Les travailleurs, les employeurs et leurs organisations ont le droit de se syndiquer pour la défense de leurs intérêts, de créer des associations et d’y adhérer ou non.
+
+### Art. 22 Garanties générales de procédure
+1. Toute personne a droit, dans une procédure judiciaire ou administrative, à ce que sa
+cause soit traitée équitablement et jugée dans un délai raisonnable.
+2. Les parties ont le droit d’être entendues.
+3. Toute personne qui ne dispose pas de ressources suffisantes a droit, à moins que sa cause paraisse dépourvue de toute chance de succès, à l’assistance judiciaire gratuite. Elle a en outre droit à l’assistance gratuite d’un défenseur, dans la mesure où la sauvegarde de ses droits le requiert.
+
+### Art. 23a Garantie de l’accès au juge
+Toute personne a droit à ce que sa cause soit jugée par une autorité judiciaire
+
+### Art. 23a Garantie de procédure judiciaire
+1. Toute personne dont la cause doit être jugée dans une procédure judiciaire a droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent, indépendant et impartial. Les tribunaux d’exception sont interdits.
+2. L’audience et le prononcé du jugement sont publics et peuvent être facilement accessible de manière numérique.
