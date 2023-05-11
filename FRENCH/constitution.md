@@ -146,3 +146,8 @@ Toute personne a droit à ce que sa cause soit jugée par une autorité judiciai
 
 ### Art. 24 Exclusion de FeurLand
 1. Nul ne peut exclu privé de FeurLand si ce n’est dans les cas prévus par la loi et selon les formes qu’elle prescrit.
+
+### Art. 25 Procédure pénale
+1. Toute personne est présumée innocente jusqu’à ce qu’elle fasse l’objet d’une condamnation entrée en force.
+2.  Toute personne accusée a le droit d’être informée, dans les plus brefs délais et de manière détaillée, des accusations portées contre elle. Elle doit être mise en état de faire valoir les droits de la défense
+3. Toute personne condamnée a le droit de faire examiner le jugement par une juridiction supérieure. Les cas où le Tribunal fédéral statue en instance unique sont réservés.
