@@ -92,3 +92,6 @@ Quiconque est dans une situation de détresse et n’est pas en mesure de subven
 1. Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et des relations qu’elle établit par la poste et les télécommunications..
 2. Toute personne a le droit d’être protégée contre l’emploi abusif des données qui laconcernent.
 3. Le droit au respect de la vie privée s'applique également sur des résaux des communications tell qu'Internet.
+
+### Art. 14 Droit au mariage et à la famille.
+Le droit au mariage et à la famille est garanti.
