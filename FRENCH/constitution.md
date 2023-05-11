@@ -84,3 +84,11 @@ La dignité humaine doit être respectée et protégée.
 ### Art. 9 Protection des enfants et des jeunes
 1. Les enfants et les jeunes ont droit à une protection particulière de leur intégrité et à l’encouragement de leur développement
 2.  Ils exercent eux-mêmes leurs droits dans la mesure où ils sont capables de discernement.
+
+### Art. 10 Droit d’obtenir de l’aide dans des situations de détresse
+Quiconque est dans une situation de détresse et n’est pas en mesure de subvenir à son entretien a le droit d’être aidé et assisté et de recevoir les moyens indispensables pour mener une existence conforme à la dignité humaine.
+
+### Art. 13 Protection de la sphère privée
+1. Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et des relations qu’elle établit par la poste et les télécommunications cela s'applique également par tout autre moyen de comuniquation, dont internet.
+2. Toute personne a le droit d’être protégée contre l’emploi abusif des données qui la
+concernent.
