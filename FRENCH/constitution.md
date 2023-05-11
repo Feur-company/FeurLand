@@ -75,3 +75,8 @@ La dignité humaine doit être respectée et protégée.
 3. Tout être humain est égau en droit.
 4. Tout être humain a droit à un salair égale pour un travaille égale
 5. La loi prévoit des mesures en vue d’éliminer les inégalités qui frappent les personnes handicapées.
+
+### Art. 8 Droit à la vie et liberté personnelle
+1. Tout être humain a droit à la vie. La peine de mort est interdite.
+2. Tout être humain a droit à la liberté personnelle, notamment à l’intégrité physique et psychique et à la liberté de mouvement.
+3. La torture et tout autre traitement ou peine cruels inhumains ou dégradants sont interdits
