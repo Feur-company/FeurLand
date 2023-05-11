@@ -130,6 +130,7 @@ La liberté de l’art est garantie.
 ### Art. 20 Liberté économique
 1. La liberté économique est garantie.
 2. Elle comprend notamment le libre choix de la profession, le libre accès à une activité économique lucrative privée et son libre exercice.
+3. L'exercice de cette liberté peut être soumis à certaines restrictions, notamment pour protéger les consommateurs, préserver l'environnement ou lutter contre les pratiques anticoncurrentielles.
 
 ### Art. 21 Liberté syndicale
 1. Les travailleurs, les employeurs et leurs organisations ont le droit de se syndiquer pour la défense de leurs intérêts, de créer des associations et d’y adhérer ou non.
