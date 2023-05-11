@@ -42,3 +42,8 @@ Voici un texte qui par la parole de la démocratie, détermine les bases de __*F
 2. Le territoire de FeurLand s'étant dans n'import quel espace d'Internet. Les frontières ne sont pas spécifiquement délimitées, mais tout site web, ou espace d'Internet tell qui'l sois peut faire parti de FeurLand si il adopte cette présente constitution ainsi que les autre lois incluse ici et qu'il s'engage à les faire réspécter.
 
 
+### Art. 3 Langues nationales
+
+1. Est une langue nationale une langue tous les présents textes officiels. 
+2. N’importe qui peut ajouter une langue nationale en traduisant la totalité des textes officiels.
+3. Si une language n'est plus maintenue, elle sera abandonnée.
