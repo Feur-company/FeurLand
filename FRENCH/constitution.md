@@ -16,11 +16,11 @@ Voici un texte qui par la parole de la démocratie, détermine les bases de __*F
 
 
 
-## Titre 1: Dispositions générales
+## Titre 1 Dispositions générales
 
 
 
-### Art. 1: But
+### Art. 1 But
 
 
 1. FeurLand protège la liberté et les droits du peuple et assure l’indépendance et la sécurité du pays.
@@ -35,7 +35,7 @@ Voici un texte qui par la parole de la démocratie, détermine les bases de __*F
 4. Elle s’engage en faveur de la conservation durable des ressources naturelles et en faveur d’un ordre international juste et pacifique.
 
 
-### Art. 2: Territoir
+### Art. 2 Territoir
 
 
 1. FeurLand ne possède pas de territoire physique. 
@@ -61,8 +61,8 @@ subsidiarité.
 ### Art. 5 Responsabilité individuelle et sociale
 Toute personne est responsable d’elle-même et contribue selon ses forces à l’accomplissement des tâches de l’État et de la société.
 
-## Titre 2: Droits fondamentaux, citoyenneté et buts sociaux
-## Chapitre 1: Droits fondamentaux
+## Titre 2 Droits fondamentaux, citoyenneté et buts sociaux
+## Chapitre 1 Droits fondamentaux
 
 ### Art. 6 Dignité humaine
 La dignité humaine doit être respectée et protégée.
@@ -100,3 +100,7 @@ Quiconque est dans une situation de détresse et n’est pas en mesure de subven
 2. Toute personne a le droit de former, d’exprimer et de répandre librement son opinion.
 3. Toute personne a le droit de recevoir librement des informations, de se les procurer aux sources généralement accessibles et de les diffuser.
 
+## Art. 14 Liberté des médias
+1. La liberté de la presse, de la radio et de la télévision, ainsi que des autres formes de diffusion de productions et d’informations ressortissant aux télécommunications publiques est garantie.
+2. La censure est interdite.
+3. Le secret de rédaction est garanti.
