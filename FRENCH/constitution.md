@@ -108,3 +108,19 @@ Quiconque est dans une situation de détresse et n’est pas en mesure de subven
 ### Art. 15 Liberté de la langue
 1. La liberté de la langue est garantie.
 2. Chacun peut s'éxprimer dans la langue ou le language qu'il soihaite.
+
+### Art. 16 Liberté de la science
+La liberté de l’enseignement et de la recherche scientifiques est garantie.
+
+### Art. 17 Liberté de l’art
+La liberté de l’art est garantie.
+
+### Art. 18 Liberté de réunion
+1. La liberté de réunion est garantie.
+2. Toute personne a le droit d’organiser des réunions, d’y prendre part ou non.
+
+### Art. 19 Liberté d’association
+1. La liberté d’association est garantie.
+2. Toute personne a le droit de créer des associations, d’y adhérer ou d’y appartenir et de participer aux activités associatives.
+4. Nul ne peut être contraint d’adhérer à une association ou d’y appartenir
+
