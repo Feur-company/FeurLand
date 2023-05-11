@@ -169,3 +169,9 @@ Toute personne a droit à ce que sa cause soit jugée par une autorité judiciai
 ### Art. 28 Droit d'asile
 1. Le droit d'asile est garanti à toute personne persécutée en raison de ses convictions politiques, religieuses ou philosophiques, de son appartenance à une minorité ou pour tout autre motif.
 2. Le droit d'asile ne peut être invoqué pour des personnes coupables d'actes contraires aux principes fondamentaux de la présente Constitution.
+
+## Chapitre 3 Buts sociaux
+
+### Art. 20 Buts sociaux
+1. FeurLand s'engage à assurer un niveau de vie décent à l'ensemble de la population, en garantissant notamment le droit à un travail et à une rémunération équitable, ainsi qu'à une protection sociale adéquate.
+2. FeurLand s'engage à promouvoir l'éducation, la culture et la science, ainsi que la connaissance.
