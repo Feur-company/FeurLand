@@ -69,4 +69,9 @@ Toute personne est responsable d’elle-même et contribue selon ses forces à l
 ### Art. 6 Dignité humaine
 La dignité humaine doit être respectée et protégée.
 
-### Art. 7
+### Art. 7 Égalité
+1. Tous les êtres humains sont égaux devant la loi.
+2. Nul ne doit subir de discrimination du fait notamment de son origine, de sa race, de son sexe, de son âge, de sa langue, de sa situation sociale, de son mode de vie, de ses convictions religieuses, philosophiques ou politiques ni du fait d’une déficience corporelle, mentale ou psychique.
+3. Tout être humain est égau en droit.
+4. Tout être humain a droit à un salair égale pour un travaille égale
+5. La loi prévoit des mesures en vue d’éliminer les inégalités qui frappent les personnes handicapées.
