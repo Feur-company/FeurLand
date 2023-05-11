@@ -60,3 +60,13 @@ règles de la bonne foi.
 L’attribution et l’accomplissement des tâches étatiques se fondent sur le principe de
 subsidiarité.
 
+### Art. 5 Responsabilité individuelle et sociale
+Toute personne est responsable d’elle-même et contribue selon ses forces à l’accomplissement des tâches de l’État et de la société.
+
+## Droits fondamentaux, citoyenneté et buts sociaux
+## Chapitre 1 Droits fondamentaux
+
+### Art. 6 Dignité humaine
+La dignité humaine doit être respectée et protégée.
+
+### Art. 7
