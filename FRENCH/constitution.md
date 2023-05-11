@@ -101,3 +101,9 @@ Le droit au mariage et à la famille est garanti.
 2. Toute personne a le droit de choisir librement sa religion ainsi que de se forger ses convictions philosophiques et de les professer individuellement ou en communauté.
 3. Toute personne a le droit d’adhérer à une communauté religieuse ou d’y appartenir et de suivre un enseignement religieux
 4. Nul ne peut être contraint d’adhérer à une communauté religieuse ou d’y appartenir, d’accomplir un acte religieux ou de suivre un enseignement religieux.
+
+## Art. 16 Libertés d’opinion et d’information
+1. La liberté d’opinion et la liberté d’information sont garanties.
+2. Toute personne a le droit de former, d’exprimer et de répandre librement son opinion.
+3. Toute personne a le droit de recevoir librement des informations, de se les procurer aux sources généralement accessibles et de les diffuser.
+
