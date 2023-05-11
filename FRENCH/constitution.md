@@ -100,13 +100,13 @@ Quiconque est dans une situation de détresse et n’est pas en mesure de subven
 1. La liberté d’opinion et la liberté d’information sont garanties.
 2. Toute personne a le droit de former, d’exprimer et de répandre librement son opinion.
 3. Toute personne a le droit de recevoir librement des informations, de se les procurer aux sources généralement accessibles et de les diffuser.
-4. L'exercice de cette liberté peut être soumis à certaines restrictions, notamment pour protéger les droits d'autrui, préserver l'ordre public, la sécurité nationale ou la santé publique.
+4. L'exercice de cette liberté peut être soumis à certaines restrictions, si la vie d'autrui est en jeu.
 
 ### Art. 14 Liberté des médias
 1. La liberté de la presse, de la radio et de la télévision, ainsi que des autres formes de diffusion de productions et d’informations ressortissant aux télécommunications publiques est garantie.
 2. La censure est interdite.
 3. Le secret de rédaction est garanti.
-4. L'exercice de cette liberté peut être soumis à certaines restrictions, notamment pour protéger les droits d'autrui, préserver l'ordre public, la sécurité nationale ou la santé publique.
+4. L'exercice de cette liberté peut être soumis à certaines restrictions, si la vie d'autrui est en jeu.
 
 ### Art. 15 Liberté de la langue
 1. La liberté de la langue est garantie.
