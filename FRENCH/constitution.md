@@ -89,6 +89,6 @@ La dignité humaine doit être respectée et protégée.
 Quiconque est dans une situation de détresse et n’est pas en mesure de subvenir à son entretien a le droit d’être aidé et assisté et de recevoir les moyens indispensables pour mener une existence conforme à la dignité humaine.
 
 ### Art. 13 Protection de la sphère privée
-1. Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et des relations qu’elle établit par la poste et les télécommunications cela s'applique également par tout autre moyen de comuniquation, dont internet.
-2. Toute personne a le droit d’être protégée contre l’emploi abusif des données qui la
-concernent.
+1. Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et des relations qu’elle établit par la poste et les télécommunications..
+2. Toute personne a le droit d’être protégée contre l’emploi abusif des données qui laconcernent.
+3. Le droit au respect de la vie privée s'applique également sur des résaux des communications tell qu'Internet.
