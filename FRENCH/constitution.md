@@ -143,3 +143,6 @@ Toute personne a droit à ce que sa cause soit jugée par une autorité judiciai
 ### Art. 23a Garantie de procédure judiciaire
 1. Toute personne dont la cause doit être jugée dans une procédure judiciaire a droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent, indépendant et impartial. Les tribunaux d’exception sont interdits.
 2. L’audience et le prononcé du jugement sont publics et peuvent être facilement accessible de manière numérique.
+
+### Art. 24 Exclusion de FeurLand
+1. Nul ne peut exclu privé de FeurLand si ce n’est dans les cas prévus par la loi et selon les formes qu’elle prescrit.
