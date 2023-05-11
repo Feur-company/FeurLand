@@ -47,3 +47,16 @@ Voici un texte qui par la parole de la démocratie, détermine les bases de __*F
 1. Est une langue nationale une langue tous les présents textes officiels. 
 2. N’importe qui peut ajouter une langue nationale en traduisant la totalité des textes officiels.
 3. Si une langue n'est plus maintenue, elle sera abandonnée.
+
+### Art. 4 Principes de l’activité de l’État régi par le droit
+1. Le droit est la base et la limite de l’activité de l’État.
+2. L’activité de l’État doit répondre à un intérêt public et être proportionnée au but
+visé.
+3. Les organes de l’État et les particuliers doivent agir de manière conforme aux
+règles de la bonne foi.
+4. FeurLand respect le droit international.
+
+### Art. 4a Subsidiarité
+L’attribution et l’accomplissement des tâches étatiques se fondent sur le principe de
+subsidiarité.
+
