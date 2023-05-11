@@ -50,10 +50,8 @@ Voici un texte qui par la parole de la démocratie, détermine les bases de __*F
 
 ### Art. 4 Principes de l’activité de l’État régi par le droit
 1. Le droit est la base et la limite de l’activité de l’État.
-2. L’activité de l’État doit répondre à un intérêt public et être proportionnée au but
-visé.
-3. Les organes de l’État et les particuliers doivent agir de manière conforme aux
-règles de la bonne foi.
+2. L’activité de l’État doit répondre à un intérêt public et être proportionnée au but visé.
+3. Les organes de l’État et les particuliers doivent agir de manière conforme aux règles de la bonne foi.
 4. FeurLand respect le droit international.
 
 ### Art. 4a Subsidiarité
@@ -63,8 +61,8 @@ subsidiarité.
 ### Art. 5 Responsabilité individuelle et sociale
 Toute personne est responsable d’elle-même et contribue selon ses forces à l’accomplissement des tâches de l’État et de la société.
 
-## Droits fondamentaux, citoyenneté et buts sociaux
-## Chapitre 1 Droits fondamentaux
+## Titre 2: Droits fondamentaux, citoyenneté et buts sociaux
+## Chapitre 1: Droits fondamentaux
 
 ### Art. 6 Dignité humaine
 La dignité humaine doit être respectée et protégée.
@@ -77,9 +75,7 @@ La dignité humaine doit être respectée et protégée.
 5. La loi prévoit des mesures en vue d’éliminer les inégalités qui frappent les personnes handicapées.
 
 ### Art. 8 Droit à la vie et liberté personnelle
-1. Tout être humain a droit à la vie. La peine de mort est interdite.
-2. Tout être humain a droit à la liberté personnelle, notamment à l’intégrité physique et psychique et à la liberté de mouvement.
-3. La torture et tout autre traitement ou peine cruels inhumains ou dégradants sont interdits
+Tout être humain a droit à la liberté personnelle, notamment à l’intégrité physique et psychique et à la liberté de mouvement ainsi qu'à l'intégrité numérique.
 
 ### Art. 9 Protection des enfants et des jeunes
 1. Les enfants et les jeunes ont droit à une protection particulière de leur intégrité et à l’encouragement de leur développement
@@ -88,21 +84,18 @@ La dignité humaine doit être respectée et protégée.
 ### Art. 10 Droit d’obtenir de l’aide dans des situations de détresse
 Quiconque est dans une situation de détresse et n’est pas en mesure de subvenir à son entretien a le droit d’être aidé et assisté et de recevoir les moyens indispensables pour mener une existence conforme à la dignité humaine.
 
-### Art. 13 Protection de la sphère privée
-1. Toute personne a droit au respect de sa vie privée et familiale, de son domicile, de sa correspondance et des relations qu’elle établit par la poste et les télécommunications..
-2. Toute personne a le droit d’être protégée contre l’emploi abusif des données qui laconcernent.
-3. Le droit au respect de la vie privée s'applique également sur des résaux des communications tell qu'Internet.
+### Art. 11 Protection de la sphère privée
+1. Toute personne a le droit d’être protégée contre l’emploi abusif des données qui laconcernent.
+2. Le droit au respect de la vie privée s'applique également sur des résaux des communications tell qu'Internet.
 
-### Art. 14 Droit au mariage et à la famille.
-Le droit au mariage et à la famille est garanti.
 
-### Art. 15 Liberté de conscience et de croyance
+### Art. 12 Liberté de conscience et de croyance
 1. La liberté de conscience et de croyance est garantie.
 2. Toute personne a le droit de choisir librement sa religion ainsi que de se forger ses convictions philosophiques et de les professer individuellement ou en communauté.
 3. Toute personne a le droit d’adhérer à une communauté religieuse ou d’y appartenir et de suivre un enseignement religieux
 4. Nul ne peut être contraint d’adhérer à une communauté religieuse ou d’y appartenir, d’accomplir un acte religieux ou de suivre un enseignement religieux.
 
-## Art. 16 Libertés d’opinion et d’information
+## Art. 13 Libertés d’opinion et d’information
 1. La liberté d’opinion et la liberté d’information sont garanties.
 2. Toute personne a le droit de former, d’exprimer et de répandre librement son opinion.
 3. Toute personne a le droit de recevoir librement des informations, de se les procurer aux sources généralement accessibles et de les diffuser.
