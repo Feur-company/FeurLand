@@ -95,12 +95,16 @@ Quiconque est dans une situation de détresse et n’est pas en mesure de subven
 3. Toute personne a le droit d’adhérer à une communauté religieuse ou d’y appartenir et de suivre un enseignement religieux
 4. Nul ne peut être contraint d’adhérer à une communauté religieuse ou d’y appartenir, d’accomplir un acte religieux ou de suivre un enseignement religieux.
 
-## Art. 13 Libertés d’opinion et d’information
+### Art. 13 Libertés d’opinion et d’information
 1. La liberté d’opinion et la liberté d’information sont garanties.
 2. Toute personne a le droit de former, d’exprimer et de répandre librement son opinion.
 3. Toute personne a le droit de recevoir librement des informations, de se les procurer aux sources généralement accessibles et de les diffuser.
 
-## Art. 14 Liberté des médias
+### Art. 14 Liberté des médias
 1. La liberté de la presse, de la radio et de la télévision, ainsi que des autres formes de diffusion de productions et d’informations ressortissant aux télécommunications publiques est garantie.
 2. La censure est interdite.
 3. Le secret de rédaction est garanti.
+
+### Art. 15 Liberté de la langue
+1. La liberté de la langue est garantie.
+2. Chacun peut s'éxprimer dans la langue ou le language qu'il soihaite.
